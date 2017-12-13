@@ -1,5 +1,5 @@
 # TwitterAPI
-TwitterAPI accesses the twitter API and uses it to access number of retweets and favorites from tweets within the last month to use later on. The file uses the Twitter module to pull information from Twitter.'/n'
+TwitterAPI accesses the twitter API and uses it to access number of retweets and favorites from tweets within the last month to use later on. The file uses the Twitter module to pull information from Twitter.
 The consumer_key, consumer_secret, access_token_key, and access_token_secret must be added in lines 6-9 for the program to function.
 A User_ID of the account wanting to be analyzed must be added in line 13 for the program to work correctly. I used http://gettwitterid.com/ to gain the Account's ID number.
 The code contains a variety of methods for accessing information from Twitter using a Twitter account ID number in the past month. The different functions available are:
